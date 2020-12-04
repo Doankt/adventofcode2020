@@ -93,7 +93,6 @@ def valid_passport2(filename):
 			else:
 				continue
 
-			print(pass_dict)
 			counter += 1
 
 		return counter
